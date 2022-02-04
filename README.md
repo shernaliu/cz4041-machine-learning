@@ -4,21 +4,36 @@ Our GitHub repository contains the dataset downloaded from Kaggle, Python code i
 
 ## Methodologies
 
-### Approach #1: XGBoost
-> Navigate to `code/k-means-clustering.ipynb`
+### Approach #1: Decision Tree
+> Located in `code/DecisionTree.ipynb`
+
+### Approach 2: XGBoost
+> Located in `code/XGBoost.ipynb`
+
+### Approach 3: Random Forest
+> Located in `code/RandomForest.ipynb`
 
 
-### Approach 2: kNN
-> Navigate to `code/kNN.ipynb`
+### Approach 4: Neural Network
+> Located in `code/NN.ipynb`
 
+## Installing CZ4041
 
-### Approach 3: Support Vector Machine
-> Navigate to `code/support_vector_machine.ipynb`
+```
+# clone this project
+git clone https://github.com/shernaliu/cz4041.git
+```
+Anaconda is used as the package manager.
+The packages used in this project are exported to `req.txt` file.
+```
+# install the environment using
+conda create -n <environment-name> --file req.txt
+```
 
-
-### Approach 4: Convolutional Neural Network
-> Navigate to `code/CNN.ipynb`
-
+To open the Jupyter Notebook, you can use Jupyter Lab.
+```
+jupyter lab
+```
 
 ## Authors
 
