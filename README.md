@@ -19,6 +19,23 @@ Our GitHub repository contains the dataset downloaded from Kaggle, Python code i
 ### Approach 4: Convolutional Neural Network
 > Navigate to `code/CNN.ipynb`
 
+## Installing CZ4041
+
+```
+# clone this project
+git clone https://github.com/shernaliu/cz4041.git
+```
+Anaconda is used as the package manager.
+The packages used in this project are exported to `req.txt` file.
+```
+# install the environment using
+conda create -n <environment-name> --file req.txt
+```
+
+To open the Jupyter Notebook, you can use Jupyter Lab.
+```
+jupyter lab
+```
 
 ## Authors
 
