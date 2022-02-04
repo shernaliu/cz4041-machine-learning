@@ -7,14 +7,13 @@ Our GitHub repository contains the dataset downloaded from Kaggle, Python code i
 ### Approach #1: Decision Tree
 > Located in `code/DecisionTree.ipynb`
 
-### Approach 2: XGBoost
+### Approach #2: XGBoost
 > Located in `code/XGBoost.ipynb`
 
-### Approach 3: Random Forest
+### Approach #3: Random Forest
 > Located in `code/RandomForest.ipynb`
 
-
-### Approach 4: Neural Network
+### Approach #4: Neural Network
 > Located in `code/NN.ipynb`
 
 ## Installing CZ4041
