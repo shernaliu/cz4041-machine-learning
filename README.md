@@ -4,20 +4,18 @@ Our GitHub repository contains the dataset downloaded from Kaggle, Python code i
 
 ## Methodologies
 
-### Approach #1: XGBoost
-> Navigate to `code/k-means-clustering.ipynb`
+### Approach #1: Decision Tree
+> Located in `code/DecisionTree.ipynb`
+
+### Approach 2: XGBoost
+> Located in `code/XGBoost.ipynb`
+
+### Approach 3: Random Forest
+> Located in `code/RandomForest.ipynb`
 
 
-### Approach 2: kNN
-> Navigate to `code/kNN.ipynb`
-
-
-### Approach 3: Support Vector Machine
-> Navigate to `code/support_vector_machine.ipynb`
-
-
-### Approach 4: Convolutional Neural Network
-> Navigate to `code/CNN.ipynb`
+### Approach 4: Neural Network
+> Located in `code/NN.ipynb`
 
 ## Installing CZ4041
 
