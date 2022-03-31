@@ -1,20 +1,24 @@
 # Kaggle Competition - Realty Price Prediction for Sberbank Russian Housing Market
 
-Our GitHub repository contains the dataset downloaded from Kaggle, Python code in Jupyter Notebooks and submissions (CSV Files) for the [Kaggle Challenge on Realty Price Prediction for Sberbank Russian Housing Market](https://www.kaggle.com/c/sberbank-russian-housing-market/overview/timeline). 
+Our GitHub repository contains the datasest downloaded from Kaggle, Python code in Jupyter Notebooks and submissions (CSV Files) for the [Kaggle Challenge on Realty Price Prediction for Sberbank Russian Housing Market](https://www.kaggle.com/c/sberbank-russian-housing-market/overview/timeline). 
 
-## Methodologies
+## File Description
 
-### Approach 1: Decision Tree
-> Located in `code/DecisionTree.ipynb`
+| File Name     | Description   |
+| ------------- | ------------- |
+| ExploratoryDataAnalysis.ipynb | Contains the source codes to perform exploratory data analysis and data visualizations. |
+| FeatureEngineering.ipynb | Contains the source code to perform data preparation, model hyperparameter tuning, and model fitting. |
 
-### Approach 2: XGBoost
-> Located in `code/XGBoost.ipynb`
+## Leaderboard Scores and Ranking
 
-### Approach 3: Random Forest
-> Located in `code/RandomForest.ipynb`
-
-### Approach 4: Neural Network
-> Located in `code/NN.ipynb`
+| Model | Private Score | Public Score | Screenshot | Public Rank |
+| ----- | ----- | ----- | ----- | ----- |
+| Random Forest | xxx | xxx | xxx | xxx |
+| Decision Trees | xxx | xxx | xxx | xxx |
+| XGBoost | xxx | xxx | xxx | xxx |
+| SGD Regressor | xxx | xxx | xxx | xxx |
+| AdaBoost | xxx | xxx | xxx | xxx |
+| Neural Network | xxx | xxx | xxx | xxx |
 
 ## Installing CZ4041
 
