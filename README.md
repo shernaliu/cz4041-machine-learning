@@ -11,14 +11,17 @@ Our GitHub repository contains the datasest downloaded from Kaggle, Python code 
 
 ## Leaderboard Scores and Ranking
 
-| Model | Private Score | Public Score | Screenshot | Public Rank |
-| ----- | ----- | ----- | ----- | ----- |
-| Random Forest | xxx | xxx | xxx | xxx |
-| Decision Trees | xxx | xxx | xxx | xxx |
-| XGBoost | xxx | xxx | xxx | xxx |
-| SGD Regressor | xxx | xxx | xxx | xxx |
-| AdaBoost | xxx | xxx | xxx | xxx |
-| Neural Network | xxx | xxx | xxx | xxx |
+| Model | Private Score | Public Score | Public Rank |
+| ----- | ----- | ----- | ----- |
+| Random Forest | 0.35739 | 0.35275 | 2668 |
+| Decision Trees | 0.36366 | 0.36380 | 2734 |
+| XGBoost | 0.37180 | 0.36423 | 2735 |
+| SGD Regressor | 9.09261 | 9.07412 | 3260 |
+| AdaBoost | 0.70015 | 0.70313 | 3220 |
+| LightGBM | 0.32451 | 0.32355 | 1831 |
+| Naïve XGBoost Raw | 0.32162 | 0.31741 | 1384 |
+| LightGBM Raw | 0.31443 | 0.31041 | 532 |
+| Custom Model | 0.36969 | 0.36742 | 2751 |
 
 ## Video Presentation
 
