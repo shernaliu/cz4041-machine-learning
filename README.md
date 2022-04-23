@@ -23,8 +23,10 @@ Our GitHub repository contains the datasest downloaded from Kaggle, Python code 
 | LightGBM Raw | 0.31443 | 0.31041 | 532 |
 | Custom Model | 0.36969 | 0.36742 | 2751 |
 
-## Video Presentation
+All the final predictions .csv file can be found in the `code/output_models`.
 
+## Video Presentation
+The YouTube presentation video link can be found at [here](https://youtu.be/AiheoHESNiw).
 
 ## Installing CZ4041
 
